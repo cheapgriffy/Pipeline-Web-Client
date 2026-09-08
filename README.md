@@ -1,6 +1,6 @@
-
-
 <img width="420" height="120" alt="Pipeline_logo" src="https://github.com/user-attachments/assets/102fb072-e0d2-4a37-80d9-6337c425d709" />
+
+<img width="800" height="450" alt="hiddenthingy-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/93a9c3f4-d02f-4994-8c6d-dfa51d888b57" />
 
 # Script hosting web application
 
